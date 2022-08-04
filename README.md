@@ -3,3 +3,5 @@ With the improvement of technology, Mobile Food Ordering is becoming a popular t
 The food delivery apps allow customers to order from a nearby restaurant at their convenience. The customers can get their order delivered, they can pick it up themselves or they can dine in. The restaurants receive the order on the restaurant app and prepare the meal.
 
 ![alt text](https://github.com/perezjohndave/ForDa-Order/blob/main/one.png?raw=true)
+![alt text](https://github.com/perezjohndave/ForDa-Order/blob/main/two.png?raw=true)
+![alt text](https://github.com/perezjohndave/ForDa-Order/blob/main/three.png?raw=true)
